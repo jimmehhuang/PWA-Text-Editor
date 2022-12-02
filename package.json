@@ -12,16 +12,9 @@
     "client": "cd client && npm start",
     "heroku-prebuild": "npm install --dev"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/magickw/TextEditor.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/magickw/TextEditor/issues"
-  },
-  "homepage": "https://github.com/magickw/TextEditor#readme",
+  "homepage": "",
   "dependencies": {
     "express": "^4.17.3"
   },
