@@ -14,7 +14,11 @@ This simple text editor is a single-page application that runs in the internet b
 To run the code on a local machine, clone the repo and run npm i to install dependencies. Run npm run start:dev to fire up the server.
 
 ## Usage
-Here is the link to the deployed app.
+[Here](https://progressive-webapp-text-editor.herokuapp.com/) is the link to the deployed app.
+
+At the top of the page, an "Install" button can install the application on your local machine.
+
+Text can be edited and saved to a local database, and be accessed offline.
 
 ## License
 Refer to license in repo or as below:
